@@ -1,5 +1,5 @@
 # Charybdis
-Simple Hapi backend with JWT. To be paired with Scylla.
+Backend with JWT. To be paired with [Scylla](https://github.com/cidicles/scylla).
 
 #### Migrations
 `knex migrate:make Datastructure`  
